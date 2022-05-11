@@ -10,7 +10,8 @@ Two Conclusions drawn from the Outcomes by Launch Date.
    Another conclusion is that Theater had no canceled status, it was either successful or failed throughout the years.
  Conclusions drawn from the Outcomes based on Goals.
     One conclusion from the second analysis is that for goal 45000 to 49999 is that the subcategory plays was not successful rather it failed. 
-Limitations from the Dataset.
+Limitations from the Dataset. 
+    Another conclusion from analysis 2 is that goals had both successful and failed outcomes.
     One limitation from the first analysis is that it is focused on only theater not all other subcategories.
     A limitation from the second analysis is that it is focused on only plays.
     Another limitation from the second analysis is that it focused on only the successful, failed or canceled outcomes.
