@@ -16,4 +16,4 @@ Limitations from the Dataset.
     Another limitation from the second analysis is that it focused on only the successful, failed or canceled outcomes.
 Other possible tables/graphs we could create.
     We can create tables/graphs based on different categories in analysis 1.
-    We can also create tables/graphs based on different subcategoies in analysis 2.
+    We can also create tables/graphs based on different subcategories in analysis 2.
