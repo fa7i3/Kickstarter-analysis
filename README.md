@@ -8,8 +8,8 @@ Challenges faced with Deliverable 1 Analysis
 Two Conclusions drawn from the Outcomes by Launch Date.
    One conclusion is that in May, theater had a very high launch success.
    Another conclusion is that Theater had no canceled status, it was either successful or failed throughout the years.
-Two Conclusions drawn from the Outcomes based on Goals.
-   One conclusion is that 
+ Conclusions drawn from the Outcomes based on Goals.
+    One conclusion from the second analysis is that for goal 45000 to 49999 is that the subcategory plays was not successful rather it failed. 
 Limitations from the Dataset.
     One limitation from the first analysis is that it is focused on only theater not all other subcategories.
     A limitation from the second analysis is that it is focused on only plays.
